@@ -2,7 +2,7 @@
 
 ## Executive summary
 
-1. Inspired by [BMEN90030](https://biodesignmelbourne.com/) {6} courses  50% of teams launch a startup 
+1. Inspired by [BMEN90030](https://biodesignmelbourne.com/) {6};  50% of teams launch a startup 
 
 3. The teams will create:
 
