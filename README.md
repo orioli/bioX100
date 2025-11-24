@@ -1,10 +1,8 @@
-email at jose.berengueres@nu... to preregsiter with subject line "BioX100" and a succinct why of why you want to join the course.
-
 # BioX-100 BioDesing Innovation  (pilot course)
 
 ## Executive summary
 
-1. Inspired by BMEN90030 {6} courses  50% of teams launch a startup 
+1. Inspired by [BMEN90030](https://biodesignmelbourne.com/) {6} courses  50% of teams launch a startup 
 
 3. The teams will create:
 
@@ -26,6 +24,10 @@ As such, it provides a unique opportunity to gain real world experience while st
 
 - Registered Master students (/any/).
 - Completed Master education or 21 months work experience.
+## About your instructor (TBD) 
+
+Jose Berengueres — Jose received a PhD in bio-inspired robotics from the Tokyo Institute of Technology. Currently he teaches Data-Driven Innovation (DS551) and Project Management (DS552) at SEDS. He has taught executive education globally (Business Model Innovation, Design Thinking, Big Data). He also consults on innovation for companies such as Apple, Lulu Group, Etihad Airways and Porsche Middle East. He has developed various startups such as a digital note-taking app for social sciences (QualNotes AB, 2024). Jose has also coached entrepreneurs at the university incubator on growth hacking and business modelling and occasionally angel invests in edtech. He has also coached several student startups such as (Masdar's Audiomatic {5}) which won the Entrepreneurship World Cup 2024 UAE Final. He has authored various books including Building Business Models (2018), The Brown Book of Design Thinking (2011), Sketch Thinking (2015) and the bestseller textbook Introduction to Data Visualization & Storytelling (2019) with more than 15,000 copies sold worldwide {1,2}. He serves as Associate Editor of IEEE Transactions on Technology and Society and also on MDPI’s Special Issue on AI & the Future of Work. Dr. Jose also has experience with intellectual property with several AI and mechanical patents and is the inventor of the Fleximouse {3} among other inventions. He has also a proven track record creating popular interdisciplinary courses, such as IBLC124 - a pioneering Desing Thinking course at undegrad level {4}, A pioneering data vizdualization coure {2}.
+
 
 ## Intended Learnign Outcomes (ILO)
 
@@ -54,11 +56,6 @@ On completion students should be able to:
 | Technical oral examination (max 30 minutes per student): 15-minute formal presentation + questions from academic supervisor/examiner. ILOs 1,2,3,4,5,6 are assessed. | 30 minutes <br> Due in Weeks 10–11 | 10% |
 | Lay-person oral examination (max 15 minutes), supported by poster/MVP/prototype. ILOs 1,2,3,4,5,6 are assessed. | 15 minutes <br> Due in Weeks 11–12 | 10% |
 | Professional research report (5,000 words per student, excluding appendices; may include diagrams, a demo as MVP or physical or software proptytpe, tables, computations, and code/output). ILOs 1,2,3,4,5,6 are assessed. | 100 hours (of work required) <br> Due in Week 12 | 40% |
-
-
-## About your instructor (TBD) 
-
-Jose Berengueres — Jose received a PhD in bio-inspired robotics from the Tokyo Institute of Technology. Currently he teaches Data-Driven Innovation (DS551) and Project Management (DS552) at SEDS. He has taught executive education globally (Business Model Innovation, Design Thinking, Big Data). He also consults on innovation for companies such as Apple, Lulu Group, Etihad Airways and Porsche Middle East. He has developed various startups such as a digital note-taking app for social sciences (QualNotes AB, 2024). Jose has also coached entrepreneurs at the university incubator on growth hacking and business modelling and occasionally angel invests in edtech. He has also coached several student startups such as (Masdar's Audiomatic {5}) which won the Entrepreneurship World Cup 2024 UAE Final. He has authored various books including Building Business Models (2018), The Brown Book of Design Thinking (2011), Sketch Thinking (2015) and the bestseller textbook Introduction to Data Visualization & Storytelling (2019) with more than 15,000 copies sold worldwide {1,2}. He serves as Associate Editor of IEEE Transactions on Technology and Society and also on MDPI’s Special Issue on AI & the Future of Work. Dr. Jose also has experience with intellectual property with several AI and mechanical patents and is the inventor of the Fleximouse {3} among other inventions. He has also a proven track record creating popular interdisciplinary courses, such as IBLC124 - a pioneering Desing Thinking course at undegrad level {4}, A pioneering data vizdualization coure {2}.
 
 
 ## References
