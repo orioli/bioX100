@@ -1,14 +1,12 @@
-email at jse@ieee.org to preregsiter with subject line "BioX100" and a succinct why of why you want to join the course.
+email at jose.berengueres@nu... to preregsiter with subject line "BioX100" and a succinct why of why you want to join the course.
 
-
-# BioX-100 BioDesing Innvoation  (pilot course)
-
+# BioX-100 BioDesing Innovation  (pilot course)
 
 ## Executive summary
 
-1. In a sister course 50% of teams launch a startup
+1. Inspired by BMEN90030 {6} courses  50% of teams launch a startup 
 
-2. The teams will create:
+3. The teams will create:
 
  -  an engineering prototype or Minimum Viable Product of their invention
  - draft a provisional patent application
@@ -24,62 +22,10 @@ email at jse@ieee.org to preregsiter with subject line "BioX100" and a succinct 
 
 As such, it provides a unique opportunity to gain real world experience while still in an academic environment.
 
+## Target audience
 
-## Intended Learnign Outcomes (ILO)
-
-On completion students should be able to:
-
-1. Work as part of an interdisciplinary team to complete a technical project (e.g. startup)
-
-2. Search, analyse and document clinical practice, engineering science and relevant literature in order to evaluate the need for further research and development in a chosen clinical area
-
-3. Devise a methodology of investigation to research and apply established theories to an interdisciplinary body of knowledge and practice
-
-4. Collect and analyse a range of data (both qualitative and quantitative) to analyse critically, reflect on and synthesise complex information, problems, concepts and theories in a chosen topic
-
-5. Build a device or software MVP that helps to technologically address a clinical need
-
-6. Develop a business plan, including market overview, regulation and reimbursement strategies and intellectual property (IP) strategies
-
-
-## Assesment
-
-| Assessment Description | Timing | Percentage |
-|------------------------|--------|------------|
-| One team-based written assignment on a clinical need of ~2000 words per student. ILOs 1,2,3,4 are assessed. | 30 hours (of work required) <br> Due in Week 4, Semester 1 | 10% |
-| One team-based written assignment on the medical device/app of ~2000 words per student. ILOs 1,2,3,4 are assessed. | 25 hours (of work required) <br> Due in Week 7 | 10% |
-| One team-based oral presentation (15 minutes per student). Includes clinical problem, market review, engineering concepts (3–4 solutions), regulation, reimbursement, and IP challenges. ILOs 1,2,3,4,6 are assessed. | 50 hours (of work required) <br> Due in Week 8 | 20% |
-| Technical oral examination (max 30 minutes per student): 15-minute formal presentation + questions from academic supervisor/examiner. ILOs 1,2,3,4,5,6 are assessed. | 30 minutes <br> Due in Weeks 10–11 | 10% |
-| Lay-person oral examination (max 15 minutes), supported by poster/MVP/prototype. ILOs 1,2,3,4,5,6 are assessed. | 15 minutes <br> Due in Weeks 11–12 | 10% |
-| Professional research report (5,000 words per student, excluding appendices; may include diagrams, a demo as MVP or physical or software proptytpe, tables, computations, and code/output). ILOs 1,2,3,4,5,6 are assessed. | 100 hours (of work required) <br> Due in Week 12 | 40% |
-
-
-## About the course instructor (TBD) 
-
-
-# BioX-100 BioDesing Innvoation  (pilot course)
-
-
-## Executive summary
-
-1. In a sister course{1,2} 50% of teams launch a startup
-
-2. The teams will create:
-
- -  an engineering prototype or Minimum Viable Product of their invention
- - draft a provisional patent application
- - compose a detailed business plan
-
-3. BioDesign Innovation is taught by a combination of 
-
- - academics
- - medical device entrepreneurs
- - corporate executives
- - intellectual property attorneys
- - venture capitalists
-
-As such, it provides a unique opportunity to gain real world experience while still in an academic environment.
-
+- Registered Master students (/any/).
+- Completed Master education or 21 months work experience.
 
 ## Intended Learnign Outcomes (ILO)
 
@@ -126,4 +72,8 @@ Jose Berengueres — Jose received a PhD in bio-inspired robotics from the Tokyo
 4. Berengueres, J. (2013). The Brown Book of Design Thinking: A workshop-based approach. UAE University College.  
 
 5. Entrepreneurship World Cup 2024 UAE Final Winners Announced - https://startupscale360.com/news-and-updates/f/entrepreneurship-world-cup-2024-uae-final-winners-announced
+
+6. https://handbook.unimelb.edu.au/subjects/bmen90030
+
+See also  https://biodesignmelbourne.com/
 
